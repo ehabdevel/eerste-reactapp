@@ -1,1 +1,3 @@
 # eerste-reactapp
+
+This is a test React App for private use...
